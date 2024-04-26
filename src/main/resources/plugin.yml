@@ -1,0 +1,6 @@
+name: Roblox CrossPlay
+author: MineLC Developers
+version: 0.0.1
+
+main: lc.minelc.roblox.RobloxCrossplayPlugin
+description: Roblox Players plugin for minelc
