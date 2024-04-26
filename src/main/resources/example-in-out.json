@@ -1,0 +1,15 @@
+{
+    "players": [
+        "20.0,20.2,20.1,10.1,5.2,iChocoMilk"
+    ],
+    "changed_blocks": [
+        "0,1,0,GRASS",
+        "0,1,0,AIR"
+    ],
+    "joins": [
+        "NekoCraftYT"
+    ],
+    "quits": [
+        "iChocoMilk"
+    ]
+}
